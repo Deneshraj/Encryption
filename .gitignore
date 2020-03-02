@@ -3,5 +3,3 @@ compile*
 Compile.java
 *.txt
 .DS_Store
-.gitignore
-
