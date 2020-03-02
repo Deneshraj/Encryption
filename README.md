@@ -9,6 +9,7 @@ in a float array. This array is where a simple mathematical calculations such as
 
 # Please Contribute and submit your reviews about this new Encryption Technique, and also your suggestions.
 
+<<<<<<< HEAD
 # How to use it:
 ## Step 1:
 Compile the java programs with the following command
@@ -17,6 +18,16 @@ Compile the java programs with the following command
 
 ## Step 2:
 Run the EncMain.java as
+=======
+### How to use it:
+# Step 1:
+Compile the java programs with the following command
+    
+    javac *.java
+
+# Step 2:
+Run the EncMain.java as    
+>>>>>>> 6492b7e4216d7c99c0e086aa4e2bf3c44eb7ebec
     
     java EncMain
 
@@ -27,4 +38,8 @@ Run the EncMain.java as
     1. Strings.
     2. File.
 
+<<<<<<< HEAD
 # Right now, if you encrypt the string and you try to decrypt, copying the encrypted chinese text, then it won't work, as there are conversion from letters to text and text to letters, which causes some error in decrypting.
+=======
+Right now, if you encrypt the string and you try to decrypt, copying the encrypted chinese text, then it won't work, as there are conversion from letters to text and text to letters, which causes some error in decrypting.
+>>>>>>> 6492b7e4216d7c99c0e086aa4e2bf3c44eb7ebec
