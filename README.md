@@ -11,12 +11,12 @@ in a float array. This array is where a simple mathematical calculations such as
 
 ### How to use it:
 # Step 1:
-    Compile the java programs with the following command
-
+Compile the java programs with the following command
+    
     javac *.java
 
 # Step 2:
-    Run the EncMain.java as
+Run the EncMain.java as    
     
     java EncMain
 
