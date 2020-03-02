@@ -18,6 +18,7 @@ Compile the java programs with the following command
 ## Step 2:
 Run the EncMain.java as
 
+    java EncMain
 
 ### If you want to test the working, just press y when it asks if you want to test, and pass the array as input, since our encryption methods only performs the operations in the array and not on the strings.
 
