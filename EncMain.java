@@ -2,14 +2,20 @@ import java.util.Arrays;
 import java.util.Scanner;
 import java.io.*;
 
+/**
+ * Created by Ameenur Rahman, Vishnu Rudhva and Denesh raj.
+ * This Encryption is a set of simple methods which is used to encrypt, passing data from one method to another till end in a random manner.
+ */
+
+
 // This method is to validate Encryption Algorithms
 
 public class EncMain {
     private static Scanner sc = new Scanner(System.in);
     private static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));  // Input Reader
     public static void main(String args[]) {
-        int[] order = {1, 2, 3, 4, 5, 6, 7};
-        int[] keys = {10, 20, 10, 10, 10, 10, 10};
+        int[] order = {1, 2, 3, 4, 5, 6, 7};            // Random Order
+        int[] keys = {10, 20, 10, 10, 10, 10, 10};      // Random Keys
         boolean quit = false;
         String result, test;
 
