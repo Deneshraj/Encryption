@@ -25,4 +25,4 @@ Run the EncMain.java as
     1. Strings.
     2. File.
 
-# Right now, if you encrypt the string and you try to decrypt, copying the encrypted chinese text, then it won't work, as there are conversion from letters to text and text to letters, which causes some error in decrypting.
+Right now, if you encrypt the string and you try to decrypt, copying the encrypted chinese text, then it won't work, as there are conversion from letters to text and text to letters, which causes some error in decrypting.
